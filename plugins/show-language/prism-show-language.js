@@ -134,6 +134,7 @@
 		"hgignore": ".hgignore",
 		"npmignore": ".npmignore",
 		"inform7": "Inform 7",
+		"ixml": "Invisible XML",
 		"javadoc": "JavaDoc",
 		"javadoclike": "JavaDoc-like",
 		"javastacktrace": "Java stack trace",
